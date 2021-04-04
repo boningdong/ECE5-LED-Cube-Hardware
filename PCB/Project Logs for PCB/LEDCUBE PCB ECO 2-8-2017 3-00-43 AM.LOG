@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V_0 Pin=P10-1
+Removed Pin From Net: NetName=STX Pin=P10-2
+Removed Pin From Net: NetName=SRX Pin=P10-3
+Removed Pin From Net: NetName=GND Pin=P10-5
+Removed Pin From Net: NetName=5V_0 Pin=P11-1
+Removed Pin From Net: NetName=SCL Pin=P11-2
+Removed Pin From Net: NetName=SDA Pin=P11-3
+Removed Pin From Net: NetName=GND Pin=P11-8
+Removed Member From Class: ClassName=Copy of LED_Cube_1 Member=P10
+Removed Member From Class: ClassName=Copy of LED_Cube_1 Member=P11
+Added Room: Name=Copy of LED_Cube_1
